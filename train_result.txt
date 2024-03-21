@@ -1,0 +1,58 @@
+Epoch 1/14
+14/14 [==============================] - ETA: 0s - loss: 1.1552 - accuracy: 0.4270
+Epoch 1: val_loss improved from inf to 5131.92969, saving model to /content/drive/MyDrive/Colab_Notebooks/WMH_Dataset/model_.01-5131.9297.weights.h5
+14/14 [==============================] - 27s 1s/step - loss: 1.1552 - accuracy: 0.4270 - val_loss: 5131.9297 - val_accuracy: 0.0173
+Epoch 2/14
+14/14 [==============================] - ETA: 0s - loss: 0.9393 - accuracy: 0.8873
+Epoch 2: val_loss improved from 5131.92969 to 323.07520, saving model to /content/drive/MyDrive/Colab_Notebooks/WMH_Dataset/model_.02-323.0752.weights.h5
+14/14 [==============================] - 23s 2s/step - loss: 0.9393 - accuracy: 0.8873 - val_loss: 323.0752 - val_accuracy: 0.0630
+Epoch 3/14
+14/14 [==============================] - ETA: 0s - loss: 0.8162 - accuracy: 0.9925
+Epoch 3: val_loss improved from 323.07520 to 53.18421, saving model to /content/drive/MyDrive/Colab_Notebooks/WMH_Dataset/model_.03-53.1842.weights.h5
+14/14 [==============================] - 19s 1s/step - loss: 0.8162 - accuracy: 0.9925 - val_loss: 53.1842 - val_accuracy: 0.0769
+Epoch 4/14
+14/14 [==============================] - ETA: 0s - loss: 0.6810 - accuracy: 0.9992
+Epoch 4: val_loss improved from 53.18421 to 32.98949, saving model to /content/drive/MyDrive/Colab_Notebooks/WMH_Dataset/model_.04-32.9895.weights.h5
+14/14 [==============================] - 19s 1s/step - loss: 0.6810 - accuracy: 0.9992 - val_loss: 32.9895 - val_accuracy: 0.1189
+Epoch 5/14
+14/14 [==============================] - ETA: 0s - loss: 0.5382 - accuracy: 0.9996
+Epoch 5: val_loss improved from 32.98949 to 19.28813, saving model to /content/drive/MyDrive/Colab_Notebooks/WMH_Dataset/model_.05-19.2881.weights.h5
+14/14 [==============================] - 23s 2s/step - loss: 0.5382 - accuracy: 0.9996 - val_loss: 19.2881 - val_accuracy: 0.1906
+Epoch 6/14
+14/14 [==============================] - ETA: 0s - loss: 0.4026 - accuracy: 0.9997
+Epoch 6: val_loss improved from 19.28813 to 11.19673, saving model to /content/drive/MyDrive/Colab_Notebooks/WMH_Dataset/model_.06-11.1967.weights.h5
+14/14 [==============================] - 19s 1s/step - loss: 0.4026 - accuracy: 0.9997 - val_loss: 11.1967 - val_accuracy: 0.2699
+Epoch 7/14
+14/14 [==============================] - ETA: 0s - loss: 0.2889 - accuracy: 0.9997
+Epoch 7: val_loss improved from 11.19673 to 6.28629, saving model to /content/drive/MyDrive/Colab_Notebooks/WMH_Dataset/model_.07-6.2863.weights.h5
+14/14 [==============================] - 19s 1s/step - loss: 0.2889 - accuracy: 0.9997 - val_loss: 6.2863 - val_accuracy: 0.3643
+Epoch 8/14
+14/14 [==============================] - ETA: 0s - loss: 0.2041 - accuracy: 0.9997
+Epoch 8: val_loss improved from 6.28629 to 1.65756, saving model to /content/drive/MyDrive/Colab_Notebooks/WMH_Dataset/model_.08-1.6576.weights.h5
+14/14 [==============================] - 19s 1s/step - loss: 0.2041 - accuracy: 0.9997 - val_loss: 1.6576 - val_accuracy: 0.5972
+Epoch 9/14
+14/14 [==============================] - ETA: 0s - loss: 0.1455 - accuracy: 0.9997
+Epoch 9: val_loss improved from 1.65756 to 0.52156, saving model to /content/drive/MyDrive/Colab_Notebooks/WMH_Dataset/model_.09-0.5216.weights.h5
+14/14 [==============================] - 19s 1s/step - loss: 0.1455 - accuracy: 0.9997 - val_loss: 0.5216 - val_accuracy: 0.8802
+Epoch 10/14
+14/14 [==============================] - ETA: 0s - loss: 0.1066 - accuracy: 0.9997
+Epoch 10: val_loss did not improve from 0.52156
+14/14 [==============================] - 18s 1s/step - loss: 0.1066 - accuracy: 0.9997 - val_loss: 0.5485 - val_accuracy: 0.8883
+Epoch 11/14
+14/14 [==============================] - ETA: 0s - loss: 0.0808 - accuracy: 0.9997
+Epoch 11: val_loss did not improve from 0.52156
+14/14 [==============================] - 19s 1s/step - loss: 0.0808 - accuracy: 0.9997 - val_loss: 0.5551 - val_accuracy: 0.8927
+Epoch 12/14
+14/14 [==============================] - ETA: 0s - loss: 0.0632 - accuracy: 0.9997
+Epoch 12: val_loss improved from 0.52156 to 0.37512, saving model to /content/drive/MyDrive/Colab_Notebooks/WMH_Dataset/model_.12-0.3751.weights.h5
+14/14 [==============================] - 20s 1s/step - loss: 0.0632 - accuracy: 0.9997 - val_loss: 0.3751 - val_accuracy: 0.9242
+Epoch 13/14
+14/14 [==============================] - ETA: 0s - loss: 0.0509 - accuracy: 0.9997
+Epoch 13: val_loss improved from 0.37512 to 0.06350, saving model to /content/drive/MyDrive/Colab_Notebooks/WMH_Dataset/model_.13-0.0635.weights.h5
+14/14 [==============================] - 19s 1s/step - loss: 0.0509 - accuracy: 0.9997 - val_loss: 0.0635 - val_accuracy: 0.9917
+Epoch 14/14
+14/14 [==============================] - ETA: 0s - loss: 0.0414 - accuracy: 0.9998
+Epoch 14: val_loss did not improve from 0.06350
+14/14 [==============================] - 18s 1s/step - loss: 0.0414 - accuracy: 0.9998 - val_loss: 0.0661 - val_accuracy: 0.9903
+
+Completed at 00:28, took 4m 52s to train
